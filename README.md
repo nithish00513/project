@@ -150,6 +150,7 @@ HTML
 
     <script src="script.js"></script>
 CSS
+```
     /* Reset and basic styles */
 body, h1, h2, p, a, input, button {
     margin: 0;
@@ -343,6 +344,7 @@ searchBar.addEventListener('keydown', function(event) {
 });
 </body>
 </html>
+```
 # OUTPUT:
 ![Screenshot 2024-12-19 141037](https://github.com/user-attachments/assets/27892943-8b8c-47b4-8898-14b7d5b8d3e2)
 ![Screenshot 2024-12-19 140954](https://github.com/user-attachments/assets/566d741f-01c4-42c1-a443-18ab6f7f7ab9)
